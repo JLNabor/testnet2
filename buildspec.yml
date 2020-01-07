@@ -1,0 +1,14 @@
+version: 0.2
+
+phases:
+
+  build:
+    commands:
+      - dotnet restore slnTestCodePipeline/service/service.csproj
+      - dotnet build slnTestCodePipeline/service/service.csproj
+      - dotnet publish slnTestCodePipeline/service/service.csproj -o ./staging/app
+      - cp ./slnTestCodePipeline/service/aws-windows-deployment-manifest.json ./slnTestCodePipeline/service/staging/.
+artifacts:
+  files:
+    - '**/*'
+  base-directory: 'tslnTestCodePipeline/service/staging'
