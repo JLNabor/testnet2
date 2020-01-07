@@ -1,0 +1,16 @@
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\appsettings.json
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\service.deps.json
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\service.runtimeconfig.json
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\service.runtimeconfig.dev.json
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\service.dll
+C:\yop\testnet2\slnTestCodePipeline\service\bin\Debug\netcoreapp2.2\service.pdb
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.csprojAssemblyReference.cache
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.RazorAssemblyInfo.cache
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.RazorAssemblyInfo.cs
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.AssemblyInfoInputs.cache
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.AssemblyInfo.cs
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.RazorTargetAssemblyInfo.cache
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.dll
+C:\yop\testnet2\slnTestCodePipeline\service\obj\Debug\netcoreapp2.2\service.pdb
