@@ -6,6 +6,9 @@ phases:
   build:
     commands:
       - dotnet publish -c release -o ./build_output  slnTestCodePipeline/service/service.csproj 
+  post_build:
+    commands:
+      - aws s3 sync build_output/ s3://mbo-backend-s3
 artifacts:
   files:
     - slnTestCodePipeline/service/build_output/**/*
